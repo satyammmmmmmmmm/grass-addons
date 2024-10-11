@@ -1,4 +1,7 @@
----
+#include<stdio.h>
+\int n;
+printf("Enter your number here :);
+scanf("%d",&n);---
 name: Bug report
 about: Create a report to help us improve
 title: "[Bug] "
